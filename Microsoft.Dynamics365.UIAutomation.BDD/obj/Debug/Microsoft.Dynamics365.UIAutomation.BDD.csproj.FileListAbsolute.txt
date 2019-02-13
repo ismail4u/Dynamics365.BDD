@@ -1,5 +1,3 @@
-C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.BDD\obj\Debug\Microsoft.Dynamics365.UIAutomation.BDD.csprojAssemblyReference.cache
-C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.BDD\obj\Debug\Microsoft.Dynamics365.UIAutomation.BDD.csproj.CoreCompileInputs.cache
 C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.BDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.BDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.BDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -28,6 +26,8 @@ C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-
 C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.BDD\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.BDD\bin\Debug\WebDriver.xml
 C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.BDD\bin\Debug\WebDriver.Support.xml
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.BDD\obj\Debug\Microsoft.Dynamics365.UIAutomation.BDD.csprojAssemblyReference.cache
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.BDD\obj\Debug\Microsoft.Dynamics365.UIAutomation.BDD.csproj.CoreCompileInputs.cache
 C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.BDD\obj\Debug\Microsoft.Dynamics365.UIAutomation.BDD.csproj.CopyComplete
 C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.BDD\obj\Debug\Microsoft.Dynamics365.UIAutomation.BDD.dll
 C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.BDD\obj\Debug\Microsoft.Dynamics365.UIAutomation.BDD.pdb
