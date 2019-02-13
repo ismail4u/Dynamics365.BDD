@@ -1,0 +1,15 @@
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\bin\Debug\Microsoft.Dynamics365.UIAutomation.Api.UCI.dll
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\bin\Debug\Microsoft.Dynamics365.UIAutomation.Api.UCI.pdb
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\bin\Debug\Microsoft.Dynamics365.UIAutomation.Browser.dll
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\bin\Debug\WebDriver.dll
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\bin\Debug\WebDriver.Support.dll
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\bin\Debug\Microsoft.Dynamics365.UIAutomation.Browser.pdb
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\bin\Debug\WebDriver.xml
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\bin\Debug\WebDriver.Support.xml
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\obj\Debug\Microsoft.Dynamics365.UIAutomation.Api.UCI.csprojAssemblyReference.cache
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\obj\Debug\Microsoft.Dynamics365.UIAutomation.Api.UCI.csproj.CoreCompileInputs.cache
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\obj\Debug\Microsoft.Dynamics365.UIAutomation.Api.UCI.csproj.CopyComplete
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\obj\Debug\Microsoft.Dynamics365.UIAutomation.Api.UCI.dll
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Api.UCI\obj\Debug\Microsoft.Dynamics365.UIAutomation.Api.UCI.pdb
