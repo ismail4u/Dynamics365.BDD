@@ -1,0 +1,14 @@
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\bin\Debug\Microsoft.Dynamics365.UIAutomation.Browser.dll
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\bin\Debug\Microsoft.Dynamics365.UIAutomation.Browser.pdb
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\bin\Debug\WebDriver.dll
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\bin\Debug\WebDriver.Support.dll
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\bin\Debug\WebDriver.xml
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\bin\Debug\WebDriver.Support.xml
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\obj\Debug\Microsoft.Dynamics365.UIAutomation.Browser.Properties.Resources.resources
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\obj\Debug\Microsoft.Dynamics365.UIAutomation.Browser.csproj.GenerateResource.cache
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\obj\Debug\Microsoft.Dynamics365.UIAutomation.Browser.csproj.CoreCompileInputs.cache
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\obj\Debug\Microsoft.Dynamics365.UIAutomation.Browser.csproj.CopyComplete
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\obj\Debug\Microsoft.Dynamics365.UIAutomation.Browser.dll
+C:\Users\sriram.kasalasrihari\Downloads\EasyRepro-releases-v9.1Latest\EasyRepro-releases-v9.1\Microsoft.Dynamics365.UIAutomation.Browser\obj\Debug\Microsoft.Dynamics365.UIAutomation.Browser.pdb
